@@ -23,8 +23,8 @@ $$$$$$\          $$$$$$\                  $$\          $$\
 $$$$$$\$$ |  $$ $$ |    \$$$$$$  $$$$$$$  $$ $$ |  $$ |\$$$$  |
 \______\__|  \__\__|     \______/\_______/\__\__|  \__| \____/ 
     """)
-    print(Y+"                           Created By : Ramalingasamy M K")
-    print(Y+"                           Github profile: https://github.com/Ramalingasamy012")
+    print(Y+"                           Created By : THAKUR")
+    print(Y+"                           Github profile: https://github.com/ANON89MOUS")
     print(green+"""
                 Available Modules 
            
