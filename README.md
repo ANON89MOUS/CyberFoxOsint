@@ -44,7 +44,7 @@ And it was the updated version of social recon which i was published earlier.
 
 # Installation
 
-- git clone https://github.com/Ramalingasamy012/Infosint
+- git clone https://github.com/ANON89MOUS/CyberFoxOsint
 - cd Infosint
 - python3 Infosint.py
 
