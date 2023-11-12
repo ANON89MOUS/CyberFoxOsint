@@ -6,7 +6,7 @@ And it was the updated version of social recon which i was published earlier.
 
 # Author
 
- - <b>Ramalingasamy M K</b> 
+ - <b>THAKUR</b> 
   
 # Main Features
 
@@ -41,10 +41,6 @@ And it was the updated version of social recon which i was published earlier.
 <h4> Heat Map generation</h4>
 
 - It maps the multiple IP and provide as a Map called Heatmap.
-
-# Screenshot
-
-<img src="https://github.com/Ramalingasamy012/Infosint/blob/main/screenshot.png">
 
 # Installation
 
