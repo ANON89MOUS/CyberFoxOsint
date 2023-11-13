@@ -38,10 +38,7 @@ def reconinput():
             1.Trace Single IP
             2.Heatmap
             3.URL redirection checker
-            5.PDF meta data analysis
-            6.URL lookup in webpages
-            7.Information Gathering using Name
-            8.Phonenumber verifier
+            4.Phonenumber verifier
             
             usage : type exit to stop
             """)
