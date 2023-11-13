@@ -15,20 +15,12 @@ Y = '\033[1;33;40m'
 def reconinput():
     inp=(input("Info>> "))
     if(inp == '1'):
-        recon()
-    elif (inp=='2'):
         iplocate()
-    elif(inp=='3'):
+    elif (inp=='2'):
         read_multiple_ip()
-    elif(inp =='4'):
+    elif(inp=='3'):
         urlinfo()
-    elif (inp=='5'):
-        pdfinfo()
-    elif(inp=='6'):
-        Links()
-    elif (inp=='7'):
-        Nameinfo()
-    elif (inp=='8'):
+    elif(inp =='4'):
         number()
     elif(inp=='exit'):
         exit()
