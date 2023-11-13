@@ -35,10 +35,9 @@ def reconinput():
     elif(inp=='tools'):
         print(G+"""Tools available 
     
-            1.Social media hunting using image
-            2.Trace Single IP
-            3.Heatmap
-            4.URL redirection checker
+            1.Trace Single IP
+            2.Heatmap
+            3.URL redirection checker
             5.PDF meta data analysis
             6.URL lookup in webpages
             7.Information Gathering using Name
