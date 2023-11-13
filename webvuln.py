@@ -1,6 +1,5 @@
 from clickjack import ClickJacking
 from hostheader import HostHeader
-from subdomain import fuzz
 from reverseip import ReverseIP
 cyan="\033[1;36;40m"
 green="\033[1;32;40m"
@@ -13,15 +12,12 @@ def Webvuln():
     elif(inp=='2'):
         HostHeader()
     elif(inp=='3'):
-        fuzz()
-    elif(inp=='4'):
         ReverseIP()
     elif(inp=='help'):
         print(green+"""
                1.ClickJacking,
                2.Host header injection.
-               3.Subdomain Enumeration.
-               4.Reverse IP
+               3.Reverse IP
                """)
     else:
         print(red+"Invalid choice")
