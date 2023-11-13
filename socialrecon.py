@@ -1,12 +1,8 @@
 import time
 import sys
 from url import urlinfo
-from pdfanalysis import pdfinfo
-from imagerecon import recon
 from iplocator import iplocate
 from TraceIP import read_multiple_ip
-from webscrap import Links
-from NameInfo import Nameinfo
 from number import number
 R = '\033[1;31;40m' 
 G = '\033[1;32;40m'
